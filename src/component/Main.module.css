@@ -1,0 +1,29 @@
+.tittel{
+    width: 400px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    border: 5px solid rgb(204, 114, 114);
+    position: absolute;
+    top: 5rem;
+    left: 1rem;
+}
+.note{
+ border: none;
+ height: 20px;
+ padding: 2.5rem;
+ background-color: bisque;
+ font-size: large;
+}
+.btn{
+    width: 70px;
+    height: 70px;
+    border-radius: 100%;
+    background-color:rgb(204, 114, 114) ;
+    border: none;
+    color: rgb(31, 9, 61);
+    position: absolute;
+    top: 170px;
+    right: 5px;
+    padding: 1rem;
+}
